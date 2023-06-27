@@ -3,5 +3,7 @@ sebuah aplikasi dengan fitur login
 
 ALUR FITUR LOGIN
 1. Memasukkan email dan password
-2. Memvalidasi masukan.
-3. Menampilkan halaman home
+2. Memasukkan nama, dan alamat untuk validasi
+3. Mendeteksi wajah.
+4. Memvalidasi masukan.
+5. Menampilkan halaman home
